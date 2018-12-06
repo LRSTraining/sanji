@@ -1,0 +1,16 @@
+{
+    "name": "luancomputacao/sanji",
+    "description": "Basic framework",
+    "authors": [
+        {
+            "name": "LuanComputacao",
+            "email": "eng.luanroger@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/controllers"
+        }
+    },
+    "require": {}
+}
